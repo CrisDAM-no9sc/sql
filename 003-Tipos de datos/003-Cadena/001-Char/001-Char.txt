@@ -1,0 +1,6 @@
+8 Bytes , 1 Byte
+Guarda un caracter
+
+Longitud fija, hasta 255 caracteres.
+Se utiliza para almacenar cadenas de texto de longitud fija.
+Útil cuando necesitas almacenar códigos de longitud fija

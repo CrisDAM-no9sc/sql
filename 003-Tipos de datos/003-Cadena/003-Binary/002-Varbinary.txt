@@ -1,0 +1,6 @@
+Longitud variable de hasta 255 (o más) bytes.
+Ideal para almacenar datos binarios de longitud variable.
+Cadenas binareas.
+
+Ejemplo:
+INSERT INTO ejemplo_varbinary (id, imagen) VALUES (1, 0x010203...);

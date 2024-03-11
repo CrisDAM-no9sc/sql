@@ -1,0 +1,4 @@
+Cualquier tipo de geometria 
+maneja datos en un sistema de coordenadas proyectadas
+
+Ejemplo: POINT(10, 20)

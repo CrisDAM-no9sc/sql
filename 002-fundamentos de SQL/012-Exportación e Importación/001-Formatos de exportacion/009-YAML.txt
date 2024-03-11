@@ -1,0 +1,2 @@
+ Lenguaje de serialización de datos legible por humanos con sintaxis sencilla.
+ Uso en exportación: Similar a JSON, pero con una sintaxis más fácil de leer. Puede ser utilizado para configuración y almacenamiento de datos estructurados.

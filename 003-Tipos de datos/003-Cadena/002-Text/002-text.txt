@@ -1,0 +1,5 @@
+max 65.000 caracteres
+
+Hasta 65,535 caracteres.
+Para textos más largos que TINYTEXT, pero aún limitados en longitud.
+Adecuado para descripciones más extensas.

@@ -1,0 +1,11 @@
+Sistema de almacenamiento, row level lock = cuando selecciona un registro bloquea toda la lista
+
+Características:
+
+Almacenamiento no transaccional.
+Soporte para índices full-text.
+Bloqueo a nivel de tabla.
+
+Uso común:
+
+Adecuado para aplicaciones donde las transacciones no son críticas y se realizan principalmente lecturas.

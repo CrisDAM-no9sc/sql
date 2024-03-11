@@ -1,0 +1,6 @@
+Almacenamiento: 4 Byte
+Ampliamente utilizado para almacenar identificadores, cantidades grandes o cualquier valor que no requiera el rango extremo de BIGINT.
+
+RANGO:
+sin signo: 4294967296 
+con signo: 2147483648 

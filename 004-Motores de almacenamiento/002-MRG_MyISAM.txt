@@ -1,0 +1,9 @@
+Clusterees de servidores, actuan como espejo
+
+Características:
+
+Motor de almacenamiento que permite la combinación lógica de múltiples tablas MyISAM.
+No escribe datos reales, sino que realiza operaciones de combinación en tiempo de consulta.
+
+Uso común: Útil cuando necesitas combinar lógicamente los datos de varias tablas MyISAM sin modificar las tablas originales.
+

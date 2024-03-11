@@ -1,0 +1,9 @@
+es un campo de 1 byte 
+
+es útil porque solo necesitas almacenar dos estados posibles (activo o inactivo)
+un solo byte es suficiente para representar estos valores booleanos.
+ahorrar espacio en la base de datos y mejorar el rendimiento 
+
+Rango: 
+Con signo: -128 a 127 
+sin signo: 0 a 255

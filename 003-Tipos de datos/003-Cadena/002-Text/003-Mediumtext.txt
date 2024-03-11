@@ -1,0 +1,4 @@
+max 16.7 Millones de caracteres
+
+Para almacenar textos más largos que TEXT.
+Útil cuando necesitas almacenar textos extensos.

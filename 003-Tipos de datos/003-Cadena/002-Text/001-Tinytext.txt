@@ -1,0 +1,6 @@
+ Hasta 255 caracteres.
+ 
+ Útil para almacenar pequeñas cantidades de texto
+ Almacena pequeñas cantidades de texto.
+ Puede ser útil para comentarios cortos
+ 

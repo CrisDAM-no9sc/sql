@@ -1,0 +1,3 @@
+Medido en Hora:minuto:segundo
+
+HH:MI:SS

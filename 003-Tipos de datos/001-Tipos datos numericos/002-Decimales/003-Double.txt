@@ -1,0 +1,4 @@
+Almacenamiento: 8 bytes.
+
+Similar a FLOAT pero con mayor precisión, se utiliza para números de punto flotante de doble precisión.
+Se utiliza para representar números de punto flotante de doble precisión. Es apropiado para casos donde se requiere una alta precisión, como cálculos científicos o financieros.

@@ -1,0 +1,8 @@
+Formato estructurado.
+Soporta el create tables.
+
+
+Lenguaje de marcado que permite almacenar datos en formato legible por humanos y máquinas, utilizando etiquetas personalizadas.
+USO EN EXPORTACION: 
+
+Adecuado para exportar datos estructurados de manera jerárquica. Puede ser utilizado en intercambio de datos entre sistemas.

@@ -1,0 +1,6 @@
+3.4 va seguido de 32 digitos.(E32)
+
+Almacenamiento: 4 bytes (aproximadamente).
+Se utiliza para representar números de punto flotante de precisión simple.
+
+cálculos científicos o ingenieriles.

@@ -1,0 +1,1 @@
+INSERT INTO `empresa`.`provincias`(`codigo`,`provincia`) VALUES ('02','Albacete'),('03','Alicante/Alacant'),('44',[...]);

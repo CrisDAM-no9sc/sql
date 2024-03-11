@@ -1,0 +1,2 @@
+Hasta 4 GB de bytes.
+Para almacenar datos binarios extremadamente largos.

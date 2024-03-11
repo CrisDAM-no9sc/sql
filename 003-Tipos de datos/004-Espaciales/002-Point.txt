@@ -1,0 +1,4 @@
+x, y
+
+Representa un punto en un sistema de coordenadas.
+Ejemplo: POINT(40.7128, -74.0060)

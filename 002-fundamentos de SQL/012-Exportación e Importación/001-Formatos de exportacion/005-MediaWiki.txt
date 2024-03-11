@@ -1,0 +1,4 @@
+Software que hace funcionar la wikipedia. 
+Nos podemos crear una wikipedia pero con una base de datos.
+Cualquier organzacion se puede crear una.
+

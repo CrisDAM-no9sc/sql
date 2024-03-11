@@ -1,0 +1,4 @@
+curva con interporacion entre puntos 
+
+Representa una línea compuesta por segmentos de línea recta.
+Ejemplo: LINESTRING(0 0, 10 10, 20 25)

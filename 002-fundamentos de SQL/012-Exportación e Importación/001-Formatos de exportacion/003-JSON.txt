@@ -1,0 +1,6 @@
+Guarda unicamente la nformacion pero no guarda la estructura.
+
+Formato ligero de intercambio de datos que utiliza pares clave-valor y estructuras de datos anidadas en formato legible por humanos.
+
+USO EN EXPORTACIÓN:
+Útil para exportar datos estructurados y complejos desde bases de datos. Es común en aplicaciones web y APIs.

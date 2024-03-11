@@ -1,0 +1,2 @@
+ Hasta 65,535 bytes.
+ Para datos binarios más largos que TINYBLOB, pero aún limitados en longitud.

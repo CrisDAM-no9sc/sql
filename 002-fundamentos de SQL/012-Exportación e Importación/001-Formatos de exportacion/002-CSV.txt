@@ -1,0 +1,12 @@
+Guarda todo los datos separados por comas.
+Nos guarda todo en un mismo archivo.
+Valore separados por comas 
+
+Tenemos dos tipos de CSV , importacion MS excel la diferencia esque se separan los datos en ;
+
+
+Archivos de texto plano que representan datos tabulares donde las columnas están separadas por comas. Cada línea del archivo representa una fila de la tabla.
+
+USO EN EXPORTACIÓN:
+
+Ideal para exportar datos tabulares de bases de datos a formatos que son fáciles de compartir y abrir en hojas de cálculo.

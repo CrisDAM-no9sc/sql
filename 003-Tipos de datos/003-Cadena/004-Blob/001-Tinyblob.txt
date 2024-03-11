@@ -1,0 +1,5 @@
+ Hasta 255 bytes.
+ Útil para almacenar pequeñas cantidades de datos binarios.
+ Archivos o paquetes adjuntos a la base de datos.
+ Ejemplo:
+ INSERT INTO ejemplo_tinyblob (id, binario) VALUES (1, 0x010203...);

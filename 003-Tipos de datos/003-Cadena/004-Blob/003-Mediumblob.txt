@@ -1,0 +1,2 @@
+Hasta 16,777,215 bytes.
+Para almacenar datos binarios más largos que BLOB.

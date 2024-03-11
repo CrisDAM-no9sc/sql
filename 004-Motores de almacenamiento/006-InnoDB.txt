@@ -1,0 +1,10 @@
+Bloque de registros (Data level lock)solo nos bloquea ese registro
+
+
+Características:
+
+Almacenamiento transaccional con soporte ACID (Atomicidad, Consistencia, Aislamiento, Durabilidad).
+Bloqueo a nivel de fila, lo que permite una mayor concurrencia.
+Soporte para claves foráneas (foreign keys).
+
+Uso común: Recomendado para aplicaciones que requieren características transaccionales y la integridad referencial.

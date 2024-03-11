@@ -1,0 +1,5 @@
+colecccion de poligonos 
+Representa una colección de polígonos, cada uno con su propia área cerrada.
+Útil cuando necesitas representar múltiples áreas geográficas o regiones.
+Ejemplo de insercion: 
+INSERT INTO ejemplo_multipoligono (id, areas) VALUES (1, MULTIPOLYGON(((0 0, 0 10, 10 10, 10 0, 0 0)), ((5 5, 15 5, 15 15, 5 15, 5 5))));

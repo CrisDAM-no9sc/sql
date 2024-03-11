@@ -1,0 +1,4 @@
+Conjunto de hasta 64 elementos.
+
+permite seleccionar múltiples valores de ese conjunto para una sola columna.
+Se utiliza cuando un campo puede tener múltiples valores de un conjunto predefinido.

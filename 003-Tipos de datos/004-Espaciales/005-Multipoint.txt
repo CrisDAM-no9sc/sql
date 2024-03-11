@@ -1,0 +1,5 @@
+Coleccion de puntos 
+
+ Útil cuando necesitas representar múltiples ubicaciones puntuales.
+ EJEMPLO: 
+ INSERT INTO ejemplo_multipunto (id, ubicaciones) VALUES (1, MULTIPOINT((0 0), (10 10), (20 20)));

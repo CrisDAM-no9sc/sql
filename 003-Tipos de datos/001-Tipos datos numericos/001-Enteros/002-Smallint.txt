@@ -1,0 +1,5 @@
+Entero de 2 bytes.
+Puede ser utilizado para almacenar números pequeños, como el número de estudiantes en una clase.
+
+65536 valores sin signo
+32768 con signo

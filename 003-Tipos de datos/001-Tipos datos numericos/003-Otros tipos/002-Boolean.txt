@@ -1,0 +1,6 @@
+0 es falso
+Cualquier otro valor de 1 a 255 es verdadero.
+
+
+En algunos sistemas, es sinónimo de TINYINT(1) o puede ser representado de manera similar a BIT.
+Similar al BIT, se utiliza para representar valores de verdad (verdadero o falso).

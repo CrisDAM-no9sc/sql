@@ -1,0 +1,2 @@
+ Longitud fija de hasta 255 bytes.
+ Se utiliza para almacenar datos binarios de longitud fija.

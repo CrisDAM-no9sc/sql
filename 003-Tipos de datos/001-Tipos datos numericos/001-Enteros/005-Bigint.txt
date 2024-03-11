@@ -1,0 +1,9 @@
+8 Bytes
+Útil cuando se necesita almacenar valores extremadamente grandes, como identificadores únicos globales.
+
+Para diseñando una base de datos para una red social y necesitas asignar identificadores únicos globales a los usuarios.
+Suficientemente grandes para manejar un gran número de usuarios y evitar posibles colisiones de identificadores
+
+RANNGO: 
+Sin signo: 18,446,744,073,709,551,615 
+Con signo: 9,223,372,036,854,775,807 

@@ -1,0 +1,1 @@
+ALTER TABLE `pedidos` ADD `numeropedido` INT(100) NOT NULL AUTO_INCREMENT AFTER `Identificador`, ADD UNIQUE `numeropedido` (`numeropedido`(100));

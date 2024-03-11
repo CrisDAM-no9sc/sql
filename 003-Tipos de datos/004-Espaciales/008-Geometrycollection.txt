@@ -1,0 +1,4 @@
+coleccion de objetos geometricos.
+
+Representa una colección de objetos geométricos de varios tipos.
+EJEMPLO: GEOMETRYCOLLECTION(POINT(0 0), LINESTRING(0 0, 10 10)

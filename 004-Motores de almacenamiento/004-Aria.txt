@@ -1,0 +1,7 @@
+Características:
+
+Similar a MyISAM, pero con mejoras en términos de rendimiento y características.
+Almacenamiento no transaccional.
+Puede recuperar datos después de un fallo.
+
+Uso común: Puede ser utilizado como alternativa a MyISAM en situaciones donde se necesiten mejoras de rendimiento.

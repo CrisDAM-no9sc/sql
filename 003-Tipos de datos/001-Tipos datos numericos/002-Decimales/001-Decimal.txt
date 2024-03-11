@@ -1,0 +1,5 @@
+Maximo 65 digitos de longitud 
+Minimo de 32 digitos de longitud
+
+Variable, depende de la precisión y la escala especificadas.
+Útil cuando se necesita precisión decimal fija, como en valores monetarios.

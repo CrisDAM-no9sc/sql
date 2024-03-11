@@ -1,0 +1,7 @@
+longitud máxima de 65.xxx registros
+
+Longitud variable, hasta 255 (o más) caracteres.
+Ideal para almacenar cadenas de longitud variable.
+
+Ocupa solo el espacio necesario para la cadena real.
+Ideal para nombres, descripciones u otros campos de texto de longitud variable.

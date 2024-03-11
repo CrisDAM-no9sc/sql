@@ -1,0 +1,1 @@
+mysqldump.exe -u cristina -p empresa > empresa.sql > C:/copiasdeseguridad/2024febreroempresa.sql

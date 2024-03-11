@@ -1,0 +1,5 @@
+Sisónimo de bigint.
+
+
+Almacenamiento: 4 bytes (aproximadamente), sinónimo de FLOAT en algunos sistemas.
+Se utiliza para representar números de punto flotante de precisión simple.

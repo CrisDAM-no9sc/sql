@@ -1,0 +1,5 @@
+Numero entero de 3 byte
+Útil para almacenar números medianos, como el código de área de un número de teléfono
+
+16777216 sin signo.
+8388607 con signo.

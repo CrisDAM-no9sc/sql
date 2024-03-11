@@ -1,0 +1,4 @@
+Sistema de composición de textos, especialmente adecuado para documentos científicos y técnicos.
+
+Uso en la exportación:
+Aunque no es común en exportación de bases de datos, puede ser útil para generar informes o documentación técnica con datos provenientes de una base de datos.

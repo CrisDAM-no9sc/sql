@@ -1,0 +1,4 @@
+fecha en formato epoch.
+
+YYYY-MM-DD HH:MI:SS
+registrar la fecha y hora de la última modificación en un registro.

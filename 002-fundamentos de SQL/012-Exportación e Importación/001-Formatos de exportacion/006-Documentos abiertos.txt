@@ -1,0 +1,6 @@
+Microsoft Word, LibreOffice
+
+Formatos de documentos ampliamente utilizados para crear documentos de texto, presentaciones y hojas de cálculo.
+
+USO EN LA EXPORTACIÓN: 
+Puedes exportar datos de la base de datos a formatos compatibles con procesadores de texto y hojas de cálculo para generar informes y documentos.

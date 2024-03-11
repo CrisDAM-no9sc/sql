@@ -1,0 +1,1 @@
+UPDATE productos SET existencias = existencias - 1;

@@ -1,0 +1,2 @@
+Max 65000 caracteres de valores separados por comas 
+solo se pueden ingresar valores específicos.

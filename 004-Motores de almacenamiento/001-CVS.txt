@@ -1,0 +1,11 @@
+table level lock 
+
+Cuando guardamos una tabla,guardamos en archivos que podemos modificar y tocar.
+
+Características:
+
+Almacena datos en formato CSV (Comma-Separated Values).
+No admite índices ni claves foráneas.
+Adecuado para intercambio de datos con otras aplicaciones mediante archivos CSV.
+
+Uso Común: Útil cuando necesitas importar o exportar datos en formato CSV.

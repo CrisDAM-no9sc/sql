@@ -1,0 +1,14 @@
+SELECT *
+FROM productos
+WHERE 
+precio > 20
+AND
+precio < 100;
+
+
+-- OTRA MANERA DE ESCRIBIRLO, EL RESULTADO ES EL MISMO
+
+SELECT *
+FROM productos
+WHERE
+precio BETWEEN 10 AND 100;

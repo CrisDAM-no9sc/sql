@@ -1,0 +1,8 @@
+Guarda la informacion en l RAM mas velocidad pero mas volatilidad
+
+Características:
+
+Almacena tablas completamente en memoria RAM.
+Rápido para operaciones de lectura y escritura, pero los datos se pierden en un reinicio.
+
+Uso Común: Adecuado para tablas temporales o cachés donde la velocidad es crucial, y la pérdida de datos no es un problema.

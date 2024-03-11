@@ -1,0 +1,7 @@
+1 byte por defecto 
+permite maximo de 64 Bytes
+
+1 bit (puede almacenar 0 o 1).
+Puede ser utilizado para representar un estado binario, como verdadero o falso.
+
+Se utiliza para representar un estado binario, como verdadero (1) o falso (0). Es comúnmente utilizado para campos que tienen solo dos posibles estados.

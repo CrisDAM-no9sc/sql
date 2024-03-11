@@ -1,0 +1,6 @@
+Se utilizan para realizar operaciones en bases de datos, como la creación de tablas, inserción de datos, actualizaciones, etc.
+USO EN EXPORTACIÓN:
+Puedes exportar la estructura y datos de una base de datos MySQL a un archivo SQL. Esto facilita la migración de datos y la creación de copias de seguridad.
+
+copias de seguridad de una base de datos MySQL con el objetivo de preservar todos los datos, estructuras y relaciones, un formato comúnmente utilizado es el SQL 
+obtienes un script que incluye todas las instrucciones necesarias para recrear la base de datos completa, incluyendo tablas, datos, restricciones y otros elementos.
